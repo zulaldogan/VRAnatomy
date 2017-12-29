@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkeletonAnatomy.CSharp", "SkeletonAnatomy.CSharp.csproj", "{BE0616A8-5F00-8A1E-806F-C5B75779F049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkeletonAnatomy.CSharp.Editor", "SkeletonAnatomy.CSharp.Editor.csproj", "{FA77CB5A-E38D-0AA3-2681-DB64A6D160FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE0616A8-5F00-8A1E-806F-C5B75779F049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0616A8-5F00-8A1E-806F-C5B75779F049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0616A8-5F00-8A1E-806F-C5B75779F049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0616A8-5F00-8A1E-806F-C5B75779F049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA77CB5A-E38D-0AA3-2681-DB64A6D160FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA77CB5A-E38D-0AA3-2681-DB64A6D160FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA77CB5A-E38D-0AA3-2681-DB64A6D160FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA77CB5A-E38D-0AA3-2681-DB64A6D160FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
